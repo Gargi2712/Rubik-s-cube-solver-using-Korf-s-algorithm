@@ -1,1 +1,1 @@
-# Rubik-s-cube-solver-using-Korf-s-algorithm
+A virtual Rubik's Cube with an integrated optimal solver developed in C++ and rendered using OpenGL. This solver can resolve any scrambled cube in 20 moves or fewer utilizing Korf's algorithm. Its performance surpasses other tested optimal solvers, and it efficiently generates optimal solutions for most scrambles.
